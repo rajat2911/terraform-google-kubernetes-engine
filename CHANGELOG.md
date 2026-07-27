@@ -6,6 +6,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Extending the adopted spec, each change should have a link to its corresponding pull request appended.
 
+## [45.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/compare/v44.3.0...v45.0.0) (2026-07-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* **TPG>=7.39:** add support for shutdown_grace_period_seconds and shutdown_grac… ([#2613](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/issues/2613))
+
+### Features
+
+* **TPG>=7.39:** add support for shutdown_grace_period_seconds and shutdown_grac… ([#2613](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/issues/2613)) ([8091076](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/commit/809107643ef596b4efd199f40c216ea420e005bf))
+
 ## [44.3.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/compare/v44.2.0...v44.3.0) (2026-06-26)
 
 
